@@ -30,5 +30,7 @@ begin
       zvezda[i].show();
     end;
     Redraw;
+
+    SaveWindow('Starfield.png');
   until (fEND);
 end.
