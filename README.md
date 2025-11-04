@@ -10,4 +10,4 @@ For challenge im using [PascalABC.net](https://pascalabc.net/en/).
 
 "Star field" or "warp speed" visualization in PascalABC.net.
 
-![StarField](StarField/Starfield.png 'Starfield Picture')
+[![Starfield](StarField/Starfield.png 'Starfield Picture')](StarField)
